@@ -1,0 +1,4 @@
+Realistic Terrain Generation
+
+リアルな地形を生成するmod
+自発的に操作することは無いので詳細な説明は省略

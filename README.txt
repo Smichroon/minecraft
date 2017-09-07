@@ -25,6 +25,9 @@ $ git clone https://github.com/Smichroon/minecraft-1.10.2
 参考パス：
 ...\ユーザー名\AppData\Roaming\.minecraft	//minecraftの本体フォルダパス
 
+6.forgeをインストールする(ランチャーのある階層に)
+基本的には自動で.minecraftの階層指定してくれてるし、そこでおっけ
+
 以上ッ！閉廷ッッ！！！！！
 
 ▲▽▲▽▲▽▲▽▲▽▲▽初回以降△▼△▼△▼△▼△▼△▼△▼
@@ -50,3 +53,11 @@ $ git merge origin master
 
 
 以上ッ！閉廷ッッ！！！！！
+
+
+********** 現状格納フォルダ/ファイル **********
+mods フォルダ
+mods-Information フォルダ	->	modsの説明書を格納(自作フォルダ)
+server-resource-packs フォルダ	->	現状未使用
+shaderspacks フォルダ
+forge インストーラ jar
